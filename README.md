@@ -1,4 +1,6 @@
 # LA-final-project
+<img width="407" alt="Знімок екрана 2024-04-25 о 23 47 03" src="https://github.com/lizalaveikina/LA-final-project/assets/116552566/e713e448-4f9a-4e7a-9281-7a876133d101">
+
 **Topic: Brain aneurysm classification through MRI and CT images**\
 Authors: **Anastasia Plaskonis, Yelyzaveta Laveikina, Veronika Charnosh**
 ## Explanation of the general topic
