@@ -1,5 +1,6 @@
 # LA-final-project
-**Topic: Brain aneurysm classification through MRI and CT images**
+**Topic: Brain aneurysm classification through MRI and CT images**\
+Authors: **Anastasia Plaskonis, Yelyzavveta Laveikina, Veronika Charnosh**
 ## Explanation of the general topic
 The general topic of this report is the detection of brain aneurysms through MRI imaging using computer vision techniques.
 ## Detailed description of the problem
